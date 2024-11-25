@@ -3,7 +3,7 @@
 - 👀 I’m interested in **databases**, **Flutter development**, **web design**, and **backend technologies**.
 - 🌱 I’m currently learning **JavaScript**, **Node.js**, and exploring **database management**.
 - 💞️ I’m looking to collaborate on **interesting and innovative projects**.
-- 📫 How to reach me: **anamaljubahi77@gmail.com**
+- 📫 How to reach me: **aaljubahi@gmail.com**
 - ⚡ Fun fact: I enjoy combining technology and creativity to build futuristic applications!
 
 ---
