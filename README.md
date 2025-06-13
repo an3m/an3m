@@ -9,7 +9,7 @@ I'm a passionate **Computer Science student** at Sana'a University, driven by th
 - 🌱 **Currently Mastering:** Full-stack development with **Node.js** and **JavaScript**.
 - 🔭 **Exploring:** Advanced **database management** techniques and system design.
 - 🎯 **My Goal:** To build scalable applications and contribute to innovative open-source projects.
-- 📫 **Let's Connect:** Feel free to reach out to me at **aaljubahi@gmail.com**.
+- 📫 **Let's Connect:** Feel free to reach out to me at **anam.jubahi@gmail.com** or **aaljubahi@gmail.com** .
 
 ---
 
