@@ -1,7 +1,8 @@
 # Hi there, I'm Anam! 👋 [@an3m](https://github.com/an3m)
 
 <a href="https://github.com/an3m">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=an3m&show_icons=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Anam's GitHub Stats" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=an3m&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=900" 
+ alt="Anam's GitHub Stats" />
 </a>
 
 I'm a passionate **Computer Science student** at Sana'a University, driven by the challenge of blending technology and creativity to build futuristic applications. My core interest lies in the entire development lifecycle, from designing intuitive user interfaces to architecting robust backend systems.
@@ -29,5 +30,5 @@ A collection of the tools and technologies I use to bring my ideas to life.
 ### 📊 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an3m&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an3m&layout=compact&count_private=true&theme=vision-friendly-dark&hide_border=true" />
 </p>
