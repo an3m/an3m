@@ -1,7 +1,7 @@
 # Hi there, I'm Anam! 👋 [@an3m](https://github.com/an3m)
 
 <a href="https://github.com/an3m">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=an3m&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=900" 
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/?username=an3m&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=03D8F3&icon_color=F8D867&line_height=28&rank_icon=github" 
  alt="Anam's GitHub Stats" />
 </a>
 
