@@ -48,18 +48,16 @@ A collection of the tools and technologies I use to bring my ideas to life.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="48" alt="Supabase" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="48" alt="Scikit-Learn" />
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" alt="Figma" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" alt="Photoshop" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48" alt="Ubuntu" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="48" alt="Windows" />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="48" alt="flutter" />
 </p>
 
-<p align="center">
-  <!-- Design & OS -->
-  
-</p>
+
 
 <p align="center">
   <!-- Collaboration -->
+   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" alt="Photoshop" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" alt="Git" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" alt="GitHub" />
 </p>
