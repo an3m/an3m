@@ -43,19 +43,19 @@ A collection of the tools and technologies I use to bring my ideas to life.
 
 <p align="center">
   <!-- Databases -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" alt="MySQL" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" alt="PostgreSQL" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="48" alt="SQLite" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="48" alt="Supabase" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="48" alt="Scikit-Learn" />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" alt="Figma" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" alt="Photoshop" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48" alt="Ubuntu" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="48" alt="Windows" />
 </p>
 
 <p align="center">
   <!-- Design & OS -->
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" alt="Figma" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" alt="Photoshop" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48" alt="Ubuntu" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="48" alt="Windows" />
+  
 </p>
 
 <p align="center">
