@@ -13,19 +13,57 @@ I'm a passionate **Computer Science student** at Sana'a University, driven by th
 - 📫 **Let's Connect:** Feel free to reach out to me at **anam.jubahi@gmail.com** or **aaljubahi@gmail.com** .
 
 ---
-
 ### 💻 My Tech Stack
 
 A collection of the tools and technologies I use to bring my ideas to life.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a> </p> |
-| **Backend** | <p align="left"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> </p> |
-| **Databases** | <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/> </a> </p>|
-| **Collaboration** | <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="35" height="35"/> </a> </p>|
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" alt="JavaScript" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" alt="TypeScript" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" width="48" alt="Dart" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" alt="GoLang" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" alt="Python" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="48" alt="PHP" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="48" alt="Bash" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" width="48" alt="Powershell" />
+</p>
 
----
+<p align="center">
+  <!-- Frameworks & Tools -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" alt="NodeJS" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" width="48" alt="NestJS" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="48" alt="Laravel" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" alt="Firebase" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" width="48" alt="Prisma" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" alt="Postman" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg" width="48" alt="Jest" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="48" alt="Docker" />
+</p>
+
+<p align="center">
+  <!-- Databases -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="48" alt="MySQL" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" alt="PostgreSQL" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" width="48" alt="SQLite" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" width="48" alt="Supabase" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" width="48" alt="Scikit-Learn" />
+</p>
+
+<p align="center">
+  <!-- Design & OS -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" alt="Figma" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="48" alt="Photoshop" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" width="48" alt="Ubuntu" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" width="48" alt="Windows" />
+</p>
+
+<p align="center">
+  <!-- Collaboration -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" alt="Git" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" alt="GitHub" />
+</p>
+
 
 ### 📊 My GitHub Activity
 
